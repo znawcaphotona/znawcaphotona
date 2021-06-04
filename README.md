@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @znawcaphotona
+- 👀 I'm interested in programing
+- 🌱 I’m currently learning bots js
+- 📫 How to reach me? by discord znawcaphotona#5310
