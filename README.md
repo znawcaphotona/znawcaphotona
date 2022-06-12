@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @znawcaphotona
+- 👋 Hi, I’m @pendrajwer (but on github znawcaphotona idk why)
 - 👀 I'm interested in programing
-- 🌱 I’m currently learning bots js
-- 📫 How to reach me? by discord znawcaphotona#5310
+- 🇵🇱 I'm from poland
+- 🌱 I’m currently learning python
+- 📫 Contact: Pendrajwer();#5310, kontakt@pendrajwer.xyz
