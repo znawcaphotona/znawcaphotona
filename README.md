@@ -2,4 +2,4 @@
 - 👀 I'm interested in programing
 - 🇵🇱 I'm from poland
 - 🌱 I’m currently learning python
-- 📫 Contact: Pendrajwer();#5310, kontakt@pendrajwer.xyz
+- 📫 Contact: ae 🎄#0001
