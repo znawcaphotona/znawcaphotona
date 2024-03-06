@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pendrajwer (but on github znawcaphotona idk why)
 - 👀 I'm interested in programing
 - 🇵🇱 I'm from poland
-- 🌱 I’m currently learning python
-- 📫 Contact: ae 🎄#0001
+- 🌱 I’m currently learning advanced arduino programming
+- 📫 Contact: pendrajwey4@gmail.com
