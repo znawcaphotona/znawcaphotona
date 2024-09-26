@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @pendrajwer (but on github znawcaphotona idk why)
+- 👋 Hi, I’m miauczydelko (a.k.a. pendrajwer/pozdrawiammm
 - 👀 I'm interested in programing
 - 🇵🇱 I'm from poland
-- 🌱 I’m currently learning advanced arduino programming
-- 📫 Contact: pendrajwey4@gmail.com
+- 🌱 I’m currently learning advanced home assistant
+- 📫 Contact: miauczydelko@upteacloud.eu
