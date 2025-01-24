@@ -1,4 +1,4 @@
-- 👋 Hi, I’m miauczydelko (a.k.a. pendrajwer/pozdrawiammm)
+- 👋 Hi, I’m miauczydelko (a.k.a. pozdrawiammm)
 - 👀 I'm interested in programing
 - 🇵🇱 I'm from poland
 - 🌱 I’m currently learning advanced home assistant
