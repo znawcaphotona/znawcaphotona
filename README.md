@@ -2,4 +2,4 @@
 - 👀 I'm interested in programing
 - 🇵🇱 I'm from poland
 - 🌱 I’m currently learning advanced home assistant
-- 📫 Contact: miauczydelko@upteacloud.eu
+- 📫 Contact: miauczydelko@tea.ovh
